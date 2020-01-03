@@ -1,0 +1,8 @@
+https://fr.wikipedia.org/wiki/Loi_des_cosinus
+
+Used to find the length of each ray in function of it's position and the walls positions
+
+Jamshīd al-Kāshī theorem
+
+In a non-right triangle
+c^2 = a^2 + b^2 - 2*a*b*cos(de l'angle opposé sommet c)

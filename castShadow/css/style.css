@@ -1,0 +1,11 @@
+/* CSS STYLE */
+
+html {
+    background-color : #000;
+    font-size : 100%;
+    cursor: none;
+}
+
+#canvas {
+    /* border : .25em solid #000; */
+}
